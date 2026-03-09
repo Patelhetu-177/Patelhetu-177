@@ -11,6 +11,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Patelhetu-177&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Patelhetu-177&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🔗 Other GitHub Account
+[![GitHub](https://img.shields.io/badge/GitHub-HetuVikartr-181717?style=for-the-badge&logo=github)](https://github.com/HetuVikartr)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Patelhetu-177&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
