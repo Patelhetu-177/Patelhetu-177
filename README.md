@@ -11,8 +11,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Patelhetu-177&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Patelhetu-177&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🔗 Other GitHub Account
-[![GitHub](https://img.shields.io/badge/GitHub-HetuVikartr-181717?style=for-the-badge&logo=github)](https://github.com/HetuVikartr)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Patelhetu-177&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -20,4 +18,22 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Patelhetu-177&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+## 🏢 Work GitHub (Professional Account)
+
+Some of my professional development work, internal tools, and company projects are managed using my work GitHub account.
+
+🔗 **Profile:** https://github.com/HetuVikartr  
+
+[![GitHub](https://img.shields.io/badge/GitHub-HetuVikartr-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HetuVikartr)
+[![Email](https://img.shields.io/badge/Email-hetu%40vikartrtechnologies.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hetu@vikartrtechnologies.com)
+
+### 📊 Work GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=HetuVikartr&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+### 🔥 Work Contribution Streak
+![](https://nirzak-streak-stats.vercel.app/?user=HetuVikartr&theme=dark&hide_border=false)
+
+### 💻 Most Used Languages (Work Projects)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HetuVikartr&theme=dark&hide_border=false&layout=compact)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
