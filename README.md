@@ -1,114 +1,62 @@
-````md
-<!-- ===================================================== -->
-<!--                HETU PATEL GITHUB README               -->
-<!-- ===================================================== -->
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hetu+Patel;Full+Stack+Developer;MERN+%7C+Next.js+%7C+React+Native;GenAI+%7C+AWS+%7C+System+Design;450%2B+LeetCode+Problems+Solved;CodeChef+3%E2%98%85+Programmer" />
-</h1>
+# 👋 Hey, I'm Hetu Patel
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=PatelHetu-177&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</div>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;MERN+%7C+Next.js+%7C+React+Native;GenAI+%7C+AWS+%7C+System+Design;450%2B+LeetCode+Problems+Solved;CodeChef+3%E2%98%85+Programmer;Building+Scalable+Products+%F0%9F%9A%80" />
 
 <br>
 
+<img src="https://komarev.com/ghpvc/?username=PatelHetu-177&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+---
+
+## 🚀 About Me
+
 ```java
-class HetuPatel {
+public class HetuPatel {
 
     String role = "Full Stack Developer";
     String company = "Vikartr Technologies";
     String education = "B.Tech ICT @ PDEU";
-    String location = "Ahmedabad, India 🇮🇳";
+    double cgpa = 8.8;
 
-    String[] languages = {
-        "Java", "JavaScript", "TypeScript",
-        "Python", "C"
-    };
-
-    String[] frontend = {
-        "React",
+    String[] techStack = {
+        "MERN",
         "Next.js",
-        "Tailwind CSS",
         "React Native",
-        "Expo"
-    };
-
-    String[] backend = {
-        "Node.js",
-        "Express.js",
-        "REST APIs"
-    };
-
-    String[] databases = {
-        "MongoDB",
+        "Prisma",
         "PostgreSQL",
-        "MySQL",
-        "Redis"
-    };
-
-    String[] cloudAndDevOps = {
         "AWS",
         "Docker",
-        "GitHub Actions",
-        "Vercel",
-        "Render"
-    };
-
-    String[] currentlyLearning = {
-        "System Design",
-        "Cloud Architecture",
-        "Agentic AI",
-        "Workflow Automation",
-        "Advanced Backend Engineering"
-    };
-
-    String[] currentProjects = {
-        "AvatarAI",
-        "EventSphere",
-        "Hotel Management System",
-        "KARBYNX"
+        "GenAI"
     };
 
     String[] achievements = {
         "450+ LeetCode Problems",
         "LeetCode Rating 1572",
         "CodeChef 3★ (1653)",
-        "Full Stack Developer",
         "Smart India Hackathon Participant"
     };
 
-    void connect() {
+    void mission() {
         System.out.println(
-            "Building scalable products and exploring AI systems 🚀"
+            "Building scalable products and solving real-world problems 🚀"
         );
     }
 }
 ```
 
----
+🎓 B.Tech Information & Communication Technology @ PDEU (CGPA: **8.8**)
 
-# 🚀 About Me
+💼 Full Stack Developer at **Vikartr Technologies**
 
-🔭 **I'm currently working on**
+🔭 Currently building scalable web and mobile applications using **MERN**, **Next.js**, **React Native**, **Prisma**, and **PostgreSQL**
 
-Building scalable full-stack web and mobile applications using MERN, Next.js, React Native, PostgreSQL, Prisma, and GenAI technologies.
+🌱 Learning **System Design**, **Cloud Architecture**, **Agentic AI**, **n8n**, **AWS**, and **Distributed Systems**
 
-🤝 **I'm looking to collaborate on**
-
-Open-source projects, AI-powered products, SaaS applications, and scalable backend systems.
-
-🤔 **I'm looking for help with**
-
-Cloud Architecture, System Design, Distributed Systems, and High-Performance Backend Engineering.
-
-🌱 **Currently Learning**
-
-AWS • Docker • Agentic AI • n8n • System Design • Advanced Node.js • TypeScript
-
-⚡ **Fun Fact**
-
-I have solved **450+ LeetCode Problems**, hold a **CodeChef 3★ Rating**, and enjoy transforming complex ideas into scalable products.
+⚡ Solved **450+ LeetCode Problems**, achieved **1572 LeetCode Rating**, and earned **CodeChef 3★ (1653 Rating)**
 
 ---
 
@@ -121,7 +69,7 @@ I have solved **450+ LeetCode Problems**, hold a **CodeChef 3★ Rating**, and e
 </a>
 
 <a href="https://linkedin.com/in/hetu-patel-61a8b1288">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://patelhetu-177.github.io/Hetu_Portfolio/">
@@ -148,139 +96,249 @@ I have solved **450+ LeetCode Problems**, hold a **CodeChef 3★ Rating**, and e
 
 ---
 
-# 💻 Explored Tech
+# 💻 Tech Arsenal
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,c,react,nextjs,nodejs,express,mongodb,postgres,mysql,redis,prisma,tailwind,aws,docker,git,github,postman,vscode,linux,firebase" />
-</p>
+<div align="center">
 
----
+### Languages
 
-# 🧠 DSA Stats
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,c"/>
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Hetu_patel_17?theme=dark&font=Karma&ext=contest" />
-</p>
+### Frontend
 
-<p align="center">
-  <a href="https://www.codechef.com/users/hetu_cp17">
-    <img src="https://cp-logo.vercel.app/codechef/hetu_cp17" height="120"/>
-  </a>
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
 
----
+### Backend
 
-# 📊 Development Stats
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PatelHetu-177&show_icons=true&theme=tokyonight" />
-</p>
+### Databases
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PatelHetu-177&theme=tokyonight" />
-</p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis"/>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatelHetu-177&layout=compact&theme=tokyonight" />
-</p>
+### Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux"/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=postman,vscode"/>
+
+</div>
 
 ---
 
-# 🏆 Development Achievements
+# 🧠 DSA Journey
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=PatelHetu-177&theme=gruvbox&margin-w=15&margin-h=15" />
-</p>
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/Hetu_patel_17?theme=dark&font=Karma&ext=contest"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+| Platform        | Achievement          |
+| --------------- | -------------------- |
+| LeetCode        | 450+ Problems Solved |
+| LeetCode Rating | 1572                 |
+| CodeChef        | 3★ Programmer        |
+| CodeChef Rating | 1653                 |
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PatelHetu-177&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatelHetu-177&layout=compact&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PatelHetu-177&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=PatelHetu-177&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</div>
 
 ---
 
 # 🚀 Featured Projects
 
-### 🤖 AvatarAI
-An AI-powered productivity platform built with **Next.js 14**, **Gemini AI**, **Pinecone**, and **Clerk** featuring:
+## 🤖 AvatarAI
 
-- AI Companions
-- Mock Interviews
-- Resume Analyzer
-- PDF Chat
-- AI Quiz Generator
-- AI Image Studio
+An all-in-one AI productivity platform built using **Next.js 14**, **Gemini AI**, **Pinecone**, **Clerk**, and **Cloudinary**.
+
+### Features
+
+* AI Companions
+* SkillWise AI Interview Practice
+* PDF Chat using Vector Search
+* Resume Analyzer
+* Quiz Generator
+* AI Image Studio
 
 🔗 https://avatar-ai-swart.vercel.app/
 
 ---
 
-### 🎟️ EventSphere
+## 🎟️ EventSphere
 
-A full-stack event booking platform built using:
+A complete event booking and management platform built using:
 
-- Next.js
-- TypeScript
-- Prisma
-- PostgreSQL
-- JWT Authentication
+* Next.js
+* TypeScript
+* Prisma
+* PostgreSQL
+* JWT Authentication
+
+### Features
+
+* Event Creation
+* Ticket Booking
+* Role Based Access
+* Admin Dashboard
+* Secure Authentication
 
 🔗 https://event-booker-tan.vercel.app/
 
 ---
 
-### 💬 Namaste
+## 💬 Namaste
 
-A real-time MERN chat application focused on healthy daily conversations.
+A MERN-based real-time chat application designed for meaningful daily conversations.
+
+### Features
+
+* Authentication
+* Real-Time Messaging
+* User Profiles
+* Responsive UI
 
 🔗 https://namaste-chatapp.onrender.com/
 
 ---
 
-# 🏢 Professional Experience
+# 💼 Professional Experience
 
-### Full Stack Developer
-**Vikartr Technologies LLP**
+## 🚀 Full Stack Developer
 
-- MERN Stack Development
-- React Native Development
-- AWS Cloud Integration
-- Enterprise RBAC Systems
-- Hotel Management Platform
-- KARBYNX Carbon Credit Infrastructure
+### Vikartr Technologies LLP
 
----
+#### 🏨 Hotel Management System
 
-# 📈 Repository Activity Trends
+* Built React Web + React Native application
+* Developed booking engine with real-time availability
+* Implemented RBAC for Admin, Accountant, and Staff
+* MERN + PostgreSQL Architecture
 
-<a href="https://next.ossinsight.io/widgets/official/compose-activity-trends">
-  <img
-    src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?image_size=auto&color_scheme=dark"
-    width="100%"
-  />
-</a>
+#### 💰 Ethicare Financial Services
 
----
+* Built financial calculators
+* Multi-role dashboard architecture
+* MongoDB-powered backend
+* Real-time financial computations
 
-# 📊 Contribution Graph
+#### 🌍 KARBYNX
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PatelHetu-177&theme=tokyo-night" />
-</p>
+Digital Carbon Market Infrastructure Platform
 
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
+* React Native + Expo
+* Enterprise RBAC
+* KYC & Aadhaar Verification
+* IoT & Satellite Data Integration
+* 2FA Authentication
+* Carbon Credit Marketplace
 
 ---
 
-# 💭 Quote
+# 🎓 Education
+
+## Pandit Deendayal Energy University (PDEU)
+
+**B.Tech - Information & Communication Technology**
+
+📅 2022 – Present
+
+🎯 CGPA: **8.8**
+
+---
+
+# 📜 Certifications
+
+🏅 Johns Hopkins University
+
+* HTML, CSS & JavaScript for Web Developers
+
+🏅 Meta (Coursera)
+
+* Build Web Applications using Express.js and Node.js
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PatelHetu-177&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+```yaml
+learning:
+  - System Design
+  - Agentic AI
+  - AWS Architecture
+  - Docker
+  - n8n Automation
+
+building:
+  - AI Powered Applications
+  - SaaS Platforms
+  - Enterprise Systems
+  - Mobile Applications
+
+goal:
+  - Build impactful products
+  - Become a world-class engineer
+```
+
+---
+
+# 💭 Favorite Quote
 
 ### कर्मण्येवाधिकारस्ते मा फलेषु कदाचन
 
-*You have the right to work, but never to the fruits of work.*
+> You have the right to work, but never to the fruits of work.
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Keep%20Learning...&fontSize=30&fontAlignY=70&animation=twinkling" width="100%"/>
+<div align="center">
 
-````
+### 🚀 Always Learning • Always Building • Always Improving
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6A5ACD&height=120&section=footer&text=Keep%20Building%20🚀&fontSize=30&fontAlignY=70&animation=twinkling" width="100%"/>
