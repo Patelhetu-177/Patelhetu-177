@@ -9,8 +9,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=PatelHetu-177&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/PatelHetu-177?style=for-the-badge"/>
-
 <img src="https://img.shields.io/github/stars/PatelHetu-177?affiliations=OWNER&style=for-the-badge"/>
 
 </div>
