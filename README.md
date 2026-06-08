@@ -1,9 +1,9 @@
-````md
+```md
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:36BCF7,100:6A5ACD&text=Hetu%20Patel&fontSize=70&fontAlignY=40&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:36BCF7,100:6A5ACD&text=Hetu%20Patel&fontSize=75&fontAlignY=40&fontColor=ffffff&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=1000&lines=Software+Engineer;Full+Stack+Developer;MERN+%7C+Next.js+%7C+React+Native;AWS+%7C+Docker+%7C+GenAI;450%2B+LeetCode+Problems+Solved;CodeChef+3%E2%98%85+Programmer;Building+Scalable+Products+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=1000&lines=Software+Engineer;Full+Stack+Developer;MERN+%7C+Next.js+%7C+React+Native;AWS+%7C+Docker+%7C+GenAI;450%2B+LeetCode+Problems+Solved;CodeChef+3%E2%98%85+Programmer;Building+Scalable+Products+🚀" />
 
 <br>
 
@@ -11,55 +11,33 @@
 
 <img src="https://img.shields.io/github/followers/PatelHetu-177?style=for-the-badge"/>
 
+<img src="https://img.shields.io/github/stars/PatelHetu-177?affiliations=OWNER&style=for-the-badge"/>
+
 </div>
 
 ---
 
 # 💫 About Me
 
-```yaml
-name: Hetu Patel
+<img align="right" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
-role: Software Engineer | Full Stack Developer
+🎓 **B.Tech Graduate in Information & Communication Technology**
 
-company: Vikartr Technologies
+🏫 **Pandit Deendayal Energy University (PDEU)**
 
-education:
-  degree: B.Tech ICT
-  university: PDEU
-  cgpa: 8.8
-  status: Graduated
+📈 **CGPA: 8.8**
 
-coding_profiles:
-  leetcode:
-    solved: 450+
-    rating: 1572
+💼 **Software Engineer | Full Stack Developer @ Vikartr Technologies**
 
-  codechef:
-    stars: 3★
-    rating: 1653
+🚀 Building scalable web and mobile applications using **MERN**, **Next.js**, **React Native**, **Prisma**, **PostgreSQL**, and **AWS**
 
-specialization:
-  - Full Stack Development
-  - React Native Development
-  - GenAI Applications
-  - System Design
-  - Cloud Architecture
+🤖 Passionate about **GenAI**, **Agentic AI**, **LLMs**, **System Design**, and **Cloud Architecture**
 
-currently_building:
-  - AI Powered Applications
-  - SaaS Products
-  - Enterprise Systems
-````
+🧠 Solved **450+ LeetCode Problems** with a rating of **1572**
 
-### 🚀 Quick Highlights
+⭐ **CodeChef 3★ Programmer** with a rating of **1653**
 
-* 💼 Full Stack Developer @ **Vikartr Technologies**
-* 🎓 B.Tech ICT Graduate from **PDEU**
-* 🏆 450+ LeetCode Problems Solved
-* ⭐ CodeChef 3★ Programmer
-* ☁️ AWS • Docker • Prisma • PostgreSQL
-* 🤖 Building AI Products with Gemini, Pinecone & Next.js
+🌱 Currently learning **Distributed Systems**, **Cloud Engineering**, **Docker**, **n8n**, and **Advanced Backend Design**
 
 ---
 
@@ -109,13 +87,28 @@ currently_building:
 
 ---
 
+# 🏆 Developer Snapshot
+
+<div align="center">
+
+| 💻 Coding | 🚀 Development |
+|-----------|---------------|
+| 450+ LeetCode Problems | Full Stack Developer |
+| LeetCode Rating: 1572 | React Native Developer |
+| CodeChef 3★ (1653) | MERN Stack Expert |
+| Strong DSA & Problem Solving | AI & Cloud Enthusiast |
+
+</div>
+
+---
+
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PatelHetu-177&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PatelHetu-177&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatelHetu-177&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatelHetu-177&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -129,7 +122,7 @@ currently_building:
 
 ---
 
-# 🧠 DSA Journey
+# 🧠 DSA Profile
 
 <div align="center">
 
@@ -137,87 +130,118 @@ currently_building:
 
 </div>
 
-<br>
-
-<div align="center">
-
-| Platform | Achievement          |
-| -------- | -------------------- |
-| LeetCode | 450+ Problems Solved |
-| Rating   | 1572                 |
-| CodeChef | 3★ Programmer        |
-| Rating   | 1653                 |
-
-</div>
-
 ---
 
 # 💼 Professional Experience
 
-## 🚀 Full Stack Developer — Vikartr Technologies
+## 🚀 Vikartr Technologies
 
 ### 🏨 Hotel Management System
 
-* React Web + React Native Platform
-* PostgreSQL Backend
-* Real-Time Booking Engine
-* Multi-Level RBAC Architecture
+- React Web + React Native
+- PostgreSQL
+- Real-Time Booking Engine
+- Multi-Level RBAC
+- Enterprise Architecture
 
 ### 💰 Ethicare Financial Services
 
-* Financial Calculators
-* Multi-Role Dashboard
-* MongoDB Backend
-* Dynamic Financial Analytics
+- Financial Calculators
+- Role Based Dashboards
+- MongoDB Backend
+- Dynamic Forms & Analytics
 
 ### 🌍 KARBYNX
 
 Digital Carbon Market Infrastructure
 
-* React Native + Expo
-* Aadhaar Integration
-* KYC Verification
-* Enterprise RBAC
-* IoT Data Synchronization
-* Carbon Credit Marketplace
-
----
-
-# 🏢 Professional Contributions
-
-<div align="center">
-
-<a href="https://github.com/HetuVikartr">
-<img src="https://img.shields.io/badge/Work_GitHub-HetuVikartr-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
-
-### Production Systems Delivered
-
-✅ Hotel Management Platform
-
-✅ KARBYNX Carbon Infrastructure
-
-✅ Financial Services Platform
-
-✅ Enterprise RBAC Systems
-
-✅ React Native Applications
-
-> Most repositories belong to the Vikartr organization, therefore contribution statistics are not publicly visible on my personal profile.
+- React Native + Expo
+- Aadhaar Integration
+- KYC Verification
+- Carbon Credit Marketplace
+- IoT Data Synchronization
+- Enterprise RBAC
+- 2FA Authentication
 
 ---
 
 # 🚀 Featured Projects
 
-| Project          | Tech Stack                   | Description                              |
-| ---------------- | ---------------------------- | ---------------------------------------- |
-| AvatarAI         | Next.js, Gemini AI, Pinecone | AI companions, resume analyzer, PDF chat |
-| EventSphere      | Next.js, Prisma, PostgreSQL  | Event booking & management platform      |
-| Namaste          | MERN                         | Real-time chat application               |
-| KARBYNX          | React Native, Expo           | Carbon credit infrastructure             |
-| Hotel Management | MERN, PostgreSQL             | Real-time booking ecosystem              |
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AvatarAI
+
+AI Productivity Platform
+
+- Gemini AI
+- Pinecone
+- Next.js 14
+- Clerk Auth
+- Cloudinary
+
+🔗 https://avatar-ai-swart.vercel.app/
+
+</td>
+
+<td width="50%">
+
+### 🎟️ EventSphere
+
+Event Booking Platform
+
+- Next.js
+- Prisma
+- PostgreSQL
+- JWT Authentication
+
+🔗 https://event-booker-tan.vercel.app/
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 💬 Namaste
+
+Real-Time Chat Application
+
+- MERN Stack
+- Authentication
+- Socket Based Chat
+
+🔗 https://namaste-chatapp.onrender.com/
+
+</td>
+
+<td width="50%">
+
+### 🏢 Enterprise Applications
+
+- Hotel Management
+- KARBYNX
+- Financial Services
+- RBAC Systems
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🏢 Work GitHub
+
+<div align="center">
+
+<a href="https://github.com/HetuVikartr">
+<img src="https://img.shields.io/badge/HetuVikartr-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+Most production projects are developed under the **Vikartr organization**, so contribution statistics are not fully reflected on my personal GitHub profile.
 
 ---
 
@@ -239,15 +263,15 @@ Information & Communication Technology
 
 🏅 Johns Hopkins University
 
-* HTML, CSS & JavaScript for Web Developers
+- HTML, CSS & JavaScript for Web Developers
 
-🏅 Meta (Coursera)
+🏅 Meta
 
-* Build Web Applications using Express.js and Node.js
+- Build Web Applications using Express.js and Node.js
 
 ---
 
-# 📈 Contribution Activity
+# 📈 Contribution Graph
 
 <div align="center">
 
@@ -259,31 +283,21 @@ Information & Communication Technology
 
 # 🎯 Current Focus
 
-```yaml
-learning:
-  - System Design
-  - Agentic AI
-  - AWS Architecture
-  - Docker
-  - Distributed Systems
-
-building:
-  - AI Applications
-  - SaaS Products
-  - Enterprise Platforms
-  - Mobile Apps
-
-goal:
-  - Build products used by millions
-```
+- System Design
+- Agentic AI
+- Cloud Architecture
+- AWS
+- Docker
+- Distributed Systems
+- High Performance Backend Engineering
 
 ---
 
 # 💭 Favorite Quote
 
-### कर्मण्येवाधिकारस्ते मा फलेषु कदाचन
+> कर्मण्येवाधिकारस्ते मा फलेषु कदाचन
 
-> You have the right to work, but never to the fruits of work.
+*"You have the right to work, but never to the fruits of work."*
 
 ---
 
@@ -295,5 +309,4 @@ goal:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6A5ACD&height=120&section=footer&text=Keep%20Building%20🚀&fontSize=30&fontAlignY=70&animation=twinkling" width="100%"/>
 
-```
 ```
