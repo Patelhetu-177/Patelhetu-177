@@ -1,74 +1,71 @@
 ````md
-# 👋 Hey, I'm Hetu Patel
-
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Software+Engineer+%7C+Full+Stack+Developer;MERN+%7C+Next.js+%7C+React+Native;AWS+%7C+GenAI+%7C+System+Design;450%2B+LeetCode+Problems+Solved;CodeChef+3%E2%98%85+Programmer;Building+Scalable+Products+%F0%9F%9A%80" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:36BCF7,100:6A5ACD&text=Hetu%20Patel&fontSize=70&fontAlignY=40&fontColor=ffffff&animation=fadeIn"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=1000&lines=Software+Engineer;Full+Stack+Developer;MERN+%7C+Next.js+%7C+React+Native;AWS+%7C+Docker+%7C+GenAI;450%2B+LeetCode+Problems+Solved;CodeChef+3%E2%98%85+Programmer;Building+Scalable+Products+🚀"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=PatelHetu-177&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=PatelHetu-177&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/PatelHetu-177?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-```java
-public class HetuPatel {
+```yaml
+name: Hetu Patel
 
-    String role = "Software Engineer | Full Stack Developer";
-    String company = "Vikartr Technologies";
-    String education = "B.Tech ICT Graduate @ PDEU";
-    double cgpa = 8.8;
+role: Software Engineer | Full Stack Developer
 
-    String[] expertise = {
-        "MERN Stack",
-        "Next.js",
-        "React Native",
-        "PostgreSQL",
-        "Prisma",
-        "AWS",
-        "Docker",
-        "GenAI"
-    };
+company: Vikartr Technologies
 
-    String[] achievements = {
-        "450+ LeetCode Problems",
-        "LeetCode Rating 1572",
-        "CodeChef 3★ (1653)",
-        "Smart India Hackathon Participant"
-    };
+education:
+  degree: B.Tech ICT
+  university: PDEU
+  cgpa: 8.8
+  status: Graduated
 
-    void mission() {
-        System.out.println(
-            "Building scalable products and solving real-world problems 🚀"
-        );
-    }
-}
+coding_profiles:
+  leetcode:
+    solved: 450+
+    rating: 1572
+
+  codechef:
+    stars: 3★
+    rating: 1653
+
+specialization:
+  - Full Stack Development
+  - React Native Development
+  - GenAI Applications
+  - System Design
+  - Cloud Architecture
+
+currently_building:
+  - AI Powered Applications
+  - SaaS Products
+  - Enterprise Systems
 ````
 
-🎓 **Bachelor of Technology (B.Tech)**
-Information & Communication Technology
+### 🚀 Quick Highlights
 
-🏫 **Pandit Deendayal Energy University (PDEU)**
-
-🎯 **CGPA: 8.8**
-
-💼 **Full Stack Developer @ Vikartr Technologies**
-
-🔭 Building scalable web and mobile applications using **MERN**, **Next.js**, **React Native**, **Prisma**, **PostgreSQL**, and **GenAI**
-
-🌱 Learning **System Design**, **Cloud Architecture**, **Agentic AI**, **AWS**, **Docker**, and **Distributed Systems**
-
-⚡ Solved **450+ LeetCode Problems**, achieved **1572 LeetCode Rating**, and earned **CodeChef 3★ (1653 Rating)**
+* 💼 Full Stack Developer @ **Vikartr Technologies**
+* 🎓 B.Tech ICT Graduate from **PDEU**
+* 🏆 450+ LeetCode Problems Solved
+* ⭐ CodeChef 3★ Programmer
+* ☁️ AWS • Docker • Prisma • PostgreSQL
+* 🤖 Building AI Products with Gemini, Pinecone & Next.js
 
 ---
 
 # 🌐 Connect With Me
 
-<div align="center">
+<p align="center">
 
 <a href="mailto:hetup9432@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -98,133 +95,35 @@ Information & Communication Technology
 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
+</p>
+
+---
+
+# ⚡ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,c,react,nextjs,nodejs,express,mongodb,postgres,mysql,redis,prisma,aws,docker,git,github,tailwind,linux,postman,vscode,firebase" />
+
 </div>
 
 ---
 
-# 💼 Professional Experience
-
-## 🚀 Full Stack Developer — Vikartr Technologies
-
-### 🏨 Hotel Management System
-
-* React Web + React Native Platform
-* Real-Time Booking Engine
-* PostgreSQL Database
-* Multi-Level RBAC System
-* Admin, Accountant & Staff Portals
-
-### 💰 Ethicare Financial Services
-
-* Financial Calculators
-* Multi-Role Dashboard
-* MongoDB Backend
-* Dynamic Forms
-* Real-Time Financial Computations
-
-### 🌍 KARBYNX
-
-Digital Carbon Market Infrastructure
-
-* React Native + Expo
-* Enterprise RBAC
-* KYC Verification
-* Aadhaar Integration
-* IoT Data Synchronization
-* Satellite Monitoring
-* Two Factor Authentication
-* Carbon Credit Marketplace
-
----
-
-# 🚀 Featured Projects
-
-## 🤖 AvatarAI
-
-AI-powered productivity platform built using:
-
-* Next.js 14
-* Gemini AI
-* Pinecone Vector Database
-* Clerk Authentication
-* Cloudinary
-
-### Features
-
-* AI Companions
-* Mock Interviews
-* Resume Analyzer
-* PDF Chat
-* Quiz Generator
-* AI Image Studio
-
-🔗 https://avatar-ai-swart.vercel.app/
-
----
-
-## 🎟️ EventSphere
-
-Event booking and management platform built using:
-
-* Next.js
-* TypeScript
-* Prisma
-* PostgreSQL
-* JWT Authentication
-
-### Features
-
-* Event Management
-* Ticket Booking
-* Role Based Access
-* Admin Dashboard
-
-🔗 https://event-booker-tan.vercel.app/
-
----
-
-## 💬 Namaste
-
-Real-time MERN Chat Application
-
-### Features
-
-* Authentication
-* Real-Time Messaging
-* User Profiles
-* Responsive UI
-
-🔗 https://namaste-chatapp.onrender.com/
-
----
-
-# 💻 Tech Arsenal
+# 📊 GitHub Analytics
 
 <div align="center">
 
-### Languages
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=PatelHetu-177&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,c"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatelHetu-177&layout=compact&theme=tokyonight&hide_border=true"/>
 
-### Frontend
+</div>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
+<br>
 
-### Backend
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis"/>
-
-### Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux"/>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=postman,vscode"/>
+<img src="https://streak-stats.demolab.com?user=PatelHetu-177&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -240,32 +139,47 @@ Real-time MERN Chat Application
 
 <br>
 
-| Platform        | Achievement          |
-| --------------- | -------------------- |
-| LeetCode        | 450+ Problems Solved |
-| LeetCode Rating | 1572                 |
-| CodeChef        | 3★ Programmer        |
-| CodeChef Rating | 1653                 |
+<div align="center">
+
+| Platform | Achievement          |
+| -------- | -------------------- |
+| LeetCode | 450+ Problems Solved |
+| Rating   | 1572                 |
+| CodeChef | 3★ Programmer        |
+| Rating   | 1653                 |
+
+</div>
 
 ---
 
-# 📊 GitHub Analytics
+# 💼 Professional Experience
 
-<div align="center">
+## 🚀 Full Stack Developer — Vikartr Technologies
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PatelHetu-177&show_icons=true&theme=github_dark&hide_border=true"/>
+### 🏨 Hotel Management System
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatelHetu-177&layout=compact&theme=github_dark&hide_border=true"/>
+* React Web + React Native Platform
+* PostgreSQL Backend
+* Real-Time Booking Engine
+* Multi-Level RBAC Architecture
 
-</div>
+### 💰 Ethicare Financial Services
 
-<br>
+* Financial Calculators
+* Multi-Role Dashboard
+* MongoDB Backend
+* Dynamic Financial Analytics
 
-<div align="center">
+### 🌍 KARBYNX
 
-<img src="https://streak-stats.demolab.com?user=PatelHetu-177&theme=github-dark-blue&hide_border=true"/>
+Digital Carbon Market Infrastructure
 
-</div>
+* React Native + Expo
+* Aadhaar Integration
+* KYC Verification
+* Enterprise RBAC
+* IoT Data Synchronization
+* Carbon Credit Marketplace
 
 ---
 
@@ -279,67 +193,45 @@ Real-time MERN Chat Application
 
 </div>
 
-Most professional repositories belong to the **Vikartr organization**, therefore contribution statistics are not publicly visible on my personal GitHub profile.
+### Production Systems Delivered
 
-### Production Projects
-
-✅ Hotel Management System
+✅ Hotel Management Platform
 
 ✅ KARBYNX Carbon Infrastructure
 
-✅ Ethicare Financial Services
+✅ Financial Services Platform
 
 ✅ Enterprise RBAC Systems
 
 ✅ React Native Applications
 
+> Most repositories belong to the Vikartr organization, therefore contribution statistics are not publicly visible on my personal profile.
+
 ---
 
-# 📈 Developer Snapshot
+# 🚀 Featured Projects
 
-```yaml
-LeetCode:
-  Problems Solved: 450+
-  Rating: 1572
-
-CodeChef:
-  Stars: 3★
-  Rating: 1653
-
-Education:
-  Degree: B.Tech ICT
-  CGPA: 8.8
-
-Experience:
-  Company: Vikartr Technologies
-  Role: Full Stack Developer
-
-Tech:
-  - MERN
-  - Next.js
-  - React Native
-  - PostgreSQL
-  - Prisma
-  - AWS
-  - Docker
-  - GenAI
-```
+| Project          | Tech Stack                   | Description                              |
+| ---------------- | ---------------------------- | ---------------------------------------- |
+| AvatarAI         | Next.js, Gemini AI, Pinecone | AI companions, resume analyzer, PDF chat |
+| EventSphere      | Next.js, Prisma, PostgreSQL  | Event booking & management platform      |
+| Namaste          | MERN                         | Real-time chat application               |
+| KARBYNX          | React Native, Expo           | Carbon credit infrastructure             |
+| Hotel Management | MERN, PostgreSQL             | Real-time booking ecosystem              |
 
 ---
 
 # 🎓 Education
 
-## Pandit Deendayal Energy University (PDEU)
+## Pandit Deendayal Energy University
 
 Bachelor of Technology (B.Tech)
 
 Information & Communication Technology
 
-📅 2022 – 2026
+🎯 CGPA: 8.8
 
 🎓 Graduated
-
-🎯 CGPA: 8.8
 
 ---
 
@@ -373,17 +265,16 @@ learning:
   - Agentic AI
   - AWS Architecture
   - Docker
-  - n8n Automation
+  - Distributed Systems
 
 building:
-  - AI Powered Applications
-  - SaaS Platforms
-  - Enterprise Systems
-  - Mobile Applications
+  - AI Applications
+  - SaaS Products
+  - Enterprise Platforms
+  - Mobile Apps
 
 goal:
-  - Build impactful products
-  - Become a world-class engineer
+  - Build products used by millions
 ```
 
 ---
