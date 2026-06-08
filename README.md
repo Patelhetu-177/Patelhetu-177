@@ -1,8 +1,9 @@
+````md
 # 👋 Hey, I'm Hetu Patel
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;MERN+%7C+Next.js+%7C+React+Native;GenAI+%7C+AWS+%7C+System+Design;450%2B+LeetCode+Problems+Solved;CodeChef+3%E2%98%85+Programmer;Building+Scalable+Products+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Software+Engineer+%7C+Full+Stack+Developer;MERN+%7C+Next.js+%7C+React+Native;AWS+%7C+GenAI+%7C+System+Design;450%2B+LeetCode+Problems+Solved;CodeChef+3%E2%98%85+Programmer;Building+Scalable+Products+%F0%9F%9A%80" />
 
 <br>
 
@@ -17,17 +18,17 @@
 ```java
 public class HetuPatel {
 
-    String role = "Full Stack Developer";
+    String role = "Software Engineer | Full Stack Developer";
     String company = "Vikartr Technologies";
-    String education = "B.Tech ICT @ PDEU";
+    String education = "B.Tech ICT Graduate @ PDEU";
     double cgpa = 8.8;
 
-    String[] techStack = {
-        "MERN",
+    String[] expertise = {
+        "MERN Stack",
         "Next.js",
         "React Native",
-        "Prisma",
         "PostgreSQL",
+        "Prisma",
         "AWS",
         "Docker",
         "GenAI"
@@ -46,15 +47,20 @@ public class HetuPatel {
         );
     }
 }
-```
+````
 
-🎓 B.Tech Information & Communication Technology @ PDEU (CGPA: **8.8**)
+🎓 **Bachelor of Technology (B.Tech)**
+Information & Communication Technology
 
-💼 Full Stack Developer at **Vikartr Technologies**
+🏫 **Pandit Deendayal Energy University (PDEU)**
 
-🔭 Currently building scalable web and mobile applications using **MERN**, **Next.js**, **React Native**, **Prisma**, and **PostgreSQL**
+🎯 **CGPA: 8.8**
 
-🌱 Learning **System Design**, **Cloud Architecture**, **Agentic AI**, **n8n**, **AWS**, and **Distributed Systems**
+💼 **Full Stack Developer @ Vikartr Technologies**
+
+🔭 Building scalable web and mobile applications using **MERN**, **Next.js**, **React Native**, **Prisma**, **PostgreSQL**, and **GenAI**
+
+🌱 Learning **System Design**, **Cloud Architecture**, **Agentic AI**, **AWS**, **Docker**, and **Distributed Systems**
 
 ⚡ Solved **450+ LeetCode Problems**, achieved **1572 LeetCode Rating**, and earned **CodeChef 3★ (1653 Rating)**
 
@@ -62,7 +68,7 @@ public class HetuPatel {
 
 # 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="mailto:hetup9432@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -77,7 +83,7 @@ public class HetuPatel {
 </a>
 
 <a href="https://github.com/PatelHetu-177">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Personal_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://github.com/HetuVikartr">
@@ -92,7 +98,103 @@ public class HetuPatel {
 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
-</p>
+</div>
+
+---
+
+# 💼 Professional Experience
+
+## 🚀 Full Stack Developer — Vikartr Technologies
+
+### 🏨 Hotel Management System
+
+* React Web + React Native Platform
+* Real-Time Booking Engine
+* PostgreSQL Database
+* Multi-Level RBAC System
+* Admin, Accountant & Staff Portals
+
+### 💰 Ethicare Financial Services
+
+* Financial Calculators
+* Multi-Role Dashboard
+* MongoDB Backend
+* Dynamic Forms
+* Real-Time Financial Computations
+
+### 🌍 KARBYNX
+
+Digital Carbon Market Infrastructure
+
+* React Native + Expo
+* Enterprise RBAC
+* KYC Verification
+* Aadhaar Integration
+* IoT Data Synchronization
+* Satellite Monitoring
+* Two Factor Authentication
+* Carbon Credit Marketplace
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 AvatarAI
+
+AI-powered productivity platform built using:
+
+* Next.js 14
+* Gemini AI
+* Pinecone Vector Database
+* Clerk Authentication
+* Cloudinary
+
+### Features
+
+* AI Companions
+* Mock Interviews
+* Resume Analyzer
+* PDF Chat
+* Quiz Generator
+* AI Image Studio
+
+🔗 https://avatar-ai-swart.vercel.app/
+
+---
+
+## 🎟️ EventSphere
+
+Event booking and management platform built using:
+
+* Next.js
+* TypeScript
+* Prisma
+* PostgreSQL
+* JWT Authentication
+
+### Features
+
+* Event Management
+* Ticket Booking
+* Role Based Access
+* Admin Dashboard
+
+🔗 https://event-booker-tan.vercel.app/
+
+---
+
+## 💬 Namaste
+
+Real-time MERN Chat Application
+
+### Features
+
+* Authentication
+* Real-Time Messaging
+* User Profiles
+* Responsive UI
+
+🔗 https://namaste-chatapp.onrender.com/
 
 ---
 
@@ -138,8 +240,6 @@ public class HetuPatel {
 
 <br>
 
-<div align="center">
-
 | Platform        | Achievement          |
 | --------------- | -------------------- |
 | LeetCode        | 450+ Problems Solved |
@@ -147,17 +247,15 @@ public class HetuPatel {
 | CodeChef        | 3★ Programmer        |
 | CodeChef Rating | 1653                 |
 
-</div>
-
 ---
 
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PatelHetu-177&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PatelHetu-177&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatelHetu-177&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatelHetu-177&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -165,108 +263,67 @@ public class HetuPatel {
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PatelHetu-177&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=PatelHetu-177&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Achievements
+# 🏢 Professional Contributions
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=PatelHetu-177&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<a href="https://github.com/HetuVikartr">
+<img src="https://img.shields.io/badge/Work_GitHub-HetuVikartr-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </div>
 
----
+Most professional repositories belong to the **Vikartr organization**, therefore contribution statistics are not publicly visible on my personal GitHub profile.
 
-# 🚀 Featured Projects
+### Production Projects
 
-## 🤖 AvatarAI
+✅ Hotel Management System
 
-An all-in-one AI productivity platform built using **Next.js 14**, **Gemini AI**, **Pinecone**, **Clerk**, and **Cloudinary**.
+✅ KARBYNX Carbon Infrastructure
 
-### Features
+✅ Ethicare Financial Services
 
-* AI Companions
-* SkillWise AI Interview Practice
-* PDF Chat using Vector Search
-* Resume Analyzer
-* Quiz Generator
-* AI Image Studio
+✅ Enterprise RBAC Systems
 
-🔗 https://avatar-ai-swart.vercel.app/
+✅ React Native Applications
 
 ---
 
-## 🎟️ EventSphere
+# 📈 Developer Snapshot
 
-A complete event booking and management platform built using:
+```yaml
+LeetCode:
+  Problems Solved: 450+
+  Rating: 1572
 
-* Next.js
-* TypeScript
-* Prisma
-* PostgreSQL
-* JWT Authentication
+CodeChef:
+  Stars: 3★
+  Rating: 1653
 
-### Features
+Education:
+  Degree: B.Tech ICT
+  CGPA: 8.8
 
-* Event Creation
-* Ticket Booking
-* Role Based Access
-* Admin Dashboard
-* Secure Authentication
+Experience:
+  Company: Vikartr Technologies
+  Role: Full Stack Developer
 
-🔗 https://event-booker-tan.vercel.app/
-
----
-
-## 💬 Namaste
-
-A MERN-based real-time chat application designed for meaningful daily conversations.
-
-### Features
-
-* Authentication
-* Real-Time Messaging
-* User Profiles
-* Responsive UI
-
-🔗 https://namaste-chatapp.onrender.com/
-
----
-
-# 💼 Professional Experience
-
-## 🚀 Full Stack Developer
-
-### Vikartr Technologies LLP
-
-#### 🏨 Hotel Management System
-
-* Built React Web + React Native application
-* Developed booking engine with real-time availability
-* Implemented RBAC for Admin, Accountant, and Staff
-* MERN + PostgreSQL Architecture
-
-#### 💰 Ethicare Financial Services
-
-* Built financial calculators
-* Multi-role dashboard architecture
-* MongoDB-powered backend
-* Real-time financial computations
-
-#### 🌍 KARBYNX
-
-Digital Carbon Market Infrastructure Platform
-
-* React Native + Expo
-* Enterprise RBAC
-* KYC & Aadhaar Verification
-* IoT & Satellite Data Integration
-* 2FA Authentication
-* Carbon Credit Marketplace
+Tech:
+  - MERN
+  - Next.js
+  - React Native
+  - PostgreSQL
+  - Prisma
+  - AWS
+  - Docker
+  - GenAI
+```
 
 ---
 
@@ -274,11 +331,15 @@ Digital Carbon Market Infrastructure Platform
 
 ## Pandit Deendayal Energy University (PDEU)
 
-**B.Tech - Information & Communication Technology**
+Bachelor of Technology (B.Tech)
 
-📅 2022 – Present
+Information & Communication Technology
 
-🎯 CGPA: **8.8**
+📅 2022 – 2026
+
+🎓 Graduated
+
+🎯 CGPA: 8.8
 
 ---
 
@@ -342,3 +403,6 @@ goal:
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6A5ACD&height=120&section=footer&text=Keep%20Building%20🚀&fontSize=30&fontAlignY=70&animation=twinkling" width="100%"/>
+
+```
+```
