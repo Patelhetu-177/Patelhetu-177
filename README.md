@@ -1,4 +1,4 @@
-```md
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:36BCF7,100:6A5ACD&text=Hetu%20Patel&fontSize=75&fontAlignY=40&fontColor=ffffff&animation=fadeIn"/>
@@ -308,5 +308,3 @@ Information & Communication Technology
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6A5ACD&height=120&section=footer&text=Keep%20Building%20🚀&fontSize=30&fontAlignY=70&animation=twinkling" width="100%"/>
-
-```
