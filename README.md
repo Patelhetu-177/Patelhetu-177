@@ -104,16 +104,6 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PatelHetu-177&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatelHetu-177&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com?user=PatelHetu-177&theme=tokyonight&hide_border=true"/>
 
 </div>
@@ -128,40 +118,6 @@
 
 </div>
 
----
-
-# 💼 Professional Experience
-
-## 🚀 Vikartr Technologies
-
-### 🏨 Hotel Management System
-
-- React Web + React Native
-- PostgreSQL
-- Real-Time Booking Engine
-- Multi-Level RBAC
-- Enterprise Architecture
-
-### 💰 Ethicare Financial Services
-
-- Financial Calculators
-- Role Based Dashboards
-- MongoDB Backend
-- Dynamic Forms & Analytics
-
-### 🌍 KARBYNX
-
-Digital Carbon Market Infrastructure
-
-- React Native + Expo
-- Aadhaar Integration
-- KYC Verification
-- Carbon Credit Marketplace
-- IoT Data Synchronization
-- Enterprise RBAC
-- 2FA Authentication
-
----
 
 # 🚀 Featured Projects
 
