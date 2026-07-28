@@ -20,22 +20,14 @@
 <img align="right" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
 🎓 **B.Tech Graduate in Information & Communication Technology**
-
 🏫 **Pandit Deendayal Energy University (PDEU)**
-
 📈 **CGPA: 8.8**
-
-💼 **Software Engineer | Full Stack Developer @ Vikartr Technologies**
-
+💼 **Software Engineer | Full Stack Developer
 🚀 Building scalable web and mobile applications using **MERN**, **Next.js**, **React Native**, **Prisma**, **PostgreSQL**, and **AWS**
-
 🤖 Passionate about **GenAI**, **Agentic AI**, **LLMs**, **System Design**, and **Cloud Architecture**
-
 🧠 Solved **450+ LeetCode Problems** with a rating of **1572**
-
 ⭐ **CodeChef 3★ Programmer** with a rating of **1653**
 
-🌱 Currently learning **Distributed Systems**, **Cloud Engineering**, **Docker**, **n8n**, and **Advanced Backend Design**
 
 ---
 
@@ -119,30 +111,45 @@
 </div>
 
 
-# 🚀 Featured Projects
+  # 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
+
+### 🏟️ FirstBookIt
+Sports Booking & Tournament Platform
+
+- React Native (Expo)
+- Node.js / Express
+- Prisma / PostgreSQL
+- Razorpay / AWS
+
+🔗 [iOS App](https://apps.apple.com/in/app/firstbookit/id6789637699) • [Android App](https://play.google.com/store/apps/details?id=com.sportswalla.firstbookit) • [Website](https://www.firstbookit.in/)
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 🤖 AvatarAI
-
 AI Productivity Platform
 
 - Gemini AI
 - Pinecone
 - Next.js 14
-- Clerk Auth
-- Cloudinary
+- Clerk Auth / Cloudinary
 
-🔗 https://avatar-ai-swart.vercel.app/
+🔗 [Live Demo](https://avatar-ai-swart.vercel.app/)
 
 </td>
 
-<td width="50%">
+</tr>
+<tr>
+
+<td width="50%" valign="top">
 
 ### 🎟️ EventSphere
-
 Event Booking Platform
 
 - Next.js
@@ -150,54 +157,26 @@ Event Booking Platform
 - PostgreSQL
 - JWT Authentication
 
-🔗 https://event-booker-tan.vercel.app/
+🔗 [Live Demo](https://event-booker-tan.vercel.app/)
 
 </td>
-</tr>
 
-<tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 💬 Namaste
-
 Real-Time Chat Application
 
 - MERN Stack
 - Authentication
-- Socket Based Chat
+- Socket.io Based Chat
 
-🔗 https://namaste-chatapp.onrender.com/
-
-</td>
-
-<td width="50%">
-
-### 🏢 Enterprise Applications
-
-- Hotel Management
-- KARBYNX
-- Financial Services
-- RBAC Systems
+🔗 [Live Demo](https://namaste-chatapp.onrender.com/)
 
 </td>
+
 </tr>
 </table>
 
----
-
-# 🏢 Work GitHub
-
-<div align="center">
-
-<a href="https://github.com/HetuVikartr">
-<img src="https://img.shields.io/badge/HetuVikartr-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
-
-Most production projects are developed under the **Vikartr organization**, so contribution statistics are not fully reflected on my personal GitHub profile.
-
----
 
 # 🎓 Education
 
