@@ -43,7 +43,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://patelhetu-177.github.io/Hetu_Portfolio/">
+<a href="https://hetupatel.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -202,15 +202,6 @@ Information & Communication Technology
 
 - Build Web Applications using Express.js and Node.js
 
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PatelHetu-177&theme=tokyo-night"/>
-
-</div>
 
 ---
 
