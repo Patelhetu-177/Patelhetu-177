@@ -21,7 +21,7 @@
 
 🎓 **B.Tech Graduate in Information & Communication Technology**
 🏫 **Pandit Deendayal Energy University (PDEU)**
-📈 **CGPA: 8.8**
+📈 **CGPA: 8.83**
 💼 Software Engineer | Full Stack Developer
 🚀 Building scalable web and mobile applications using **MERN**, **Next.js**, **React Native**, **Prisma**, **PostgreSQL**, and **AWS**
 🤖 Passionate about **GenAI**, **Agentic AI**, **LLMs**, **System Design**, and **Cloud Architecture**
@@ -182,7 +182,7 @@ Bachelor of Technology (B.Tech)
 
 Information & Communication Technology
 
-🎯 CGPA: 8.8
+🎯 CGPA: 8.83
 
 🎓 Graduated
 
