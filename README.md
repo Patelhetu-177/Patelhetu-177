@@ -107,7 +107,7 @@
 </div>
 
 
-  # 🚀 Featured Projects
+# 🚀 Featured Projects
 
 <table>
 <tr>
@@ -123,6 +123,37 @@ Sports Booking & Tournament Platform
 - Razorpay / AWS
 
 🔗 [iOS App](https://apps.apple.com/in/app/firstbookit/id6789637699) • [Android App](https://play.google.com/store/apps/details?id=com.sportswalla.firstbookit) • [Website](https://www.firstbookit.in/)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📍 AttendMetric
+Seat-Verified Smart Attendance Platform
+
+- Next.js / React Native (Expo)
+- Node.js / Express
+- Prisma / PostgreSQL / Redis
+- Socket.IO (Live Seat Map)
+
+🔗 [iOS App](https://apps.apple.com/in/app/attendmetric/id6811812897) • [Android App](https://play.google.com/store/apps/details?id=com.sportswalla264.AttendMetricAPP) • [Website](https://attendmetric.com)
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🏫 Shri Raj School
+Staff-Editable School Website
+
+- WordPress / Custom Plugin (PHP)
+- JavaScript / CSS
+- Contact Form 7 / reCAPTCHA
+- SEO / Google Workspace Email
+
+🔗 [Live Website](https://shrirajschool.com)
 
 </td>
 
@@ -172,7 +203,6 @@ Real-Time Chat Application
 
 </tr>
 </table>
-
 
 # 🎓 Education
 
