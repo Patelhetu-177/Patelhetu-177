@@ -3,7 +3,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:36BCF7,100:6A5ACD&text=Hetu%20Patel&fontSize=75&fontAlignY=40&fontColor=ffffff&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=1000&lines=Software+Engineer;Full+Stack+Developer;MERN+%7C+Next.js+%7C+React+Native;AWS+%7C+Docker+%7C+GenAI;450%2B+LeetCode+Problems+Solved;CodeChef+3%E2%98%85+Programmer;Building+Scalable+Products+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=1000&lines=Software+Engineer;Full+Stack+Developer;MERN+%7C+Next.js+%7C+React+Native;AWS+%7C+Docker+%7C+GenAI;500%2B+LeetCode+Problems+Solved;CodeChef+3%E2%98%85+Programmer;Building+Scalable+Products+🚀" />
 
 <br>
 
@@ -25,7 +25,7 @@
 💼 Software Engineer | Full Stack Developer
 🚀 Building scalable web and mobile applications using **MERN**, **Next.js**, **React Native**, **Prisma**, **PostgreSQL**, and **AWS**
 🤖 Passionate about **GenAI**, **Agentic AI**, **LLMs**, **System Design**, and **Cloud Architecture**
-🧠 Solved **450+ LeetCode Problems** with a rating of **1572**
+🧠 Solved **500+ LeetCode Problems** with a rating of **1572**
 ⭐ **CodeChef 3★ Programmer** with a rating of **1653**
 
 
@@ -79,7 +79,7 @@
 
 | 💻 Coding | 🚀 Development |
 |-----------|---------------|
-| 450+ LeetCode Problems | Full Stack Developer |
+| 500+ LeetCode Problems | Full Stack Developer |
 | LeetCode Rating: 1572 | React Native Developer |
 | CodeChef 3★ (1653) | MERN Stack Expert |
 | Strong DSA & Problem Solving | AI & Cloud Enthusiast |
