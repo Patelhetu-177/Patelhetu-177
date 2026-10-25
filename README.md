@@ -81,7 +81,7 @@
 |-----------|---------------|
 | 500+ LeetCode Problems | Full Stack Developer |
 | LeetCode Rating: 1572 | React Native Developer |
-| CodeChef 3★ (1653) | MERN Stack Expert |
+| CodeChef 3★ (1653) | MERN Stack |
 | Strong DSA & Problem Solving | AI & Cloud Enthusiast |
 
 </div>
