@@ -210,7 +210,7 @@ Real-Time Chat Application
 
 Bachelor of Technology (B.Tech)
 
-Information & Communication Technology
+Information & Communication Technology(ICT)
 
 🎯 CGPA: 8.83
 
