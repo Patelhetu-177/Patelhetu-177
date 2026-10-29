@@ -176,19 +176,6 @@ AI Productivity Platform
 
 <td width="50%" valign="top">
 
-### 🎟️ EventSphere
-Event Booking Platform
-
-- Next.js
-- Prisma
-- PostgreSQL
-- JWT Authentication
-
-🔗 [Live Demo](https://event-booker-tan.vercel.app/)
-
-</td>
-
-<td width="50%" valign="top">
 
 ### 💬 Namaste
 Real-Time Chat Application
