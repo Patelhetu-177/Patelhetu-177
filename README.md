@@ -133,7 +133,7 @@ Seat-Verified Smart Attendance Platform
 
 - Next.js / React Native (Expo)
 - Node.js / Express
-- Prisma / PostgreSQL / Redis
+- Prisma / PostgreSQL / Redis 
 - Socket.IO (Live Seat Map)
 
 🔗 [iOS App](https://apps.apple.com/in/app/attendmetric/id6811812897) • [Android App](https://play.google.com/store/apps/details?id=com.sportswalla264.AttendMetricAPP) • [Website](https://attendmetric.com)
@@ -193,7 +193,7 @@ Real-Time Chat Application
 
 # 🎓 Education
 
-## Pandit Deendayal Energy University
+## Pandit Deendayal Energy University(PDEU)
 
 Bachelor of Technology (B.Tech)
 
