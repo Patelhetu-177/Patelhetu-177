@@ -177,15 +177,6 @@ AI Productivity Platform
 <td width="50%" valign="top">
 
 
-### 💬 Namaste
-Real-Time Chat Application
-
-- MERN Stack
-- Authentication
-- Socket.io Based Chat
-
-🔗 [Live Demo](https://namaste-chatapp.onrender.com/)
-
 </td>
 
 </tr>
