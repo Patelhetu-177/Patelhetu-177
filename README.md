@@ -22,7 +22,7 @@
 🎓 **B.Tech Graduate in Information & Communication Technology(ICT)**
 🏫 **Pandit Deendayal Energy University (PDEU)**
 📈 **CGPA: 8.83**
-💼 Software Engineer | Full Stack Developer
+💼 Software Engineer | Full Stack Developer |GenAI
 🚀 Building scalable web and mobile applications using **MERN**, **Next.js**, **React Native**, **Prisma**, **PostgreSQL**, and **AWS**
 🤖 Passionate about **GenAI**, **Agentic AI**, **LLMs**, **System Design**, and **Cloud Architecture**
 🧠 Solved **500+ LeetCode Problems** with a rating of **1572**
