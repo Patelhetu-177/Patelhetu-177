@@ -1,4 +1,4 @@
-
+li
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:36BCF7,100:6A5ACD&text=Hetu%20Patel&fontSize=75&fontAlignY=40&fontColor=ffffff&animation=fadeIn"/>
@@ -167,7 +167,7 @@ AI Productivity Platform
 - Next.js 14
 - Clerk Auth / Cloudinary
 
-🔗 [Live Demo](https://avatar-ai-swart.vercel.app/)
+🔗 [Live Website](https://avatar-ai-swart.vercel.app/)
 
 </td>
 
