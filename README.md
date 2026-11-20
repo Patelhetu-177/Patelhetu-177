@@ -184,15 +184,23 @@ AI Productivity Platform
 
 # 🎓 Education
 
-## Pandit Deendayal Energy University(PDEU)
+## Pandit Deendayal Energy University (PDEU)
 
-Bachelor of Technology (B.Tech)
+**Bachelor of Technology (B.Tech)**
 
-Information & Communication Technology(ICT)
+Information & Communication Technology (ICT)
 
-🎯 CGPA: 8.83
+🎯 **CGPA:** 8.83
 
-🎓 Graduated
+🎓 **Graduated:** May 2026
+
+---
+
+## UMA Higher Secondary School
+
+**Higher Secondary Education (Class XII)**
+
+🎓 **Completed:** [Passing Year]
 
 ---
 
