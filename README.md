@@ -198,9 +198,11 @@ Information & Communication Technology (ICT)
 
 ## UMA Higher Secondary School
 
-**Higher Secondary Education (Class XII)**
+**(HSC) Higher Secondary Education (Class XII)**
 
-🎓 **Completed:** [Passing Year]
+🎯 **Score:** 92%
+
+🎓 **Completed:** [March 2022]
 
 ---
 
