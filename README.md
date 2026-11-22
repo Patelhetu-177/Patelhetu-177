@@ -88,6 +88,17 @@
 
 ---
 
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/PatelHetu-177/PatelHetu-177/output/github-snake.svg" alt="Contribution Snake Animation" />
+</div>
+
+
+
 # 📊 GitHub Analytics
 
 <div align="center">
@@ -105,6 +116,7 @@
 <img src="https://leetcard.jacoblin.cool/Hetu_patel_17?theme=dark&font=Karma&ext=contest"/>
 
 </div>
+
 
 
 # 🚀 Featured Projects
