@@ -196,7 +196,7 @@ AI Productivity Platform
 
 # 🎓 Education
 
-## Pandit Deendayal Energy University (PDEU)
+## Pandit Deendayal Energy University (PDEU), Gandhinagar
 
 **Bachelor of Technology (B.Tech)**
 
@@ -208,13 +208,13 @@ Information & Communication Technology (ICT)
 
 ---
 
-## UMA Higher Secondary School
+## UMA Higher Secondary School, Visnagar
 
 **(HSC) Higher Secondary Education (Class XII)**
 
 🎯 **Score:** 92%
 
-🎓 **Completed:** [March 2022]
+🎓 **Completed:** March 2022
 
 ---
 
