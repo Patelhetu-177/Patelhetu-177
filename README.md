@@ -184,14 +184,7 @@ AI Productivity Platform
 </td>
 
 </tr>
-<tr>
 
-<td width="50%" valign="top">
-
-
-</td>
-
-</tr>
 </table>
 
 # 🎓 Education
