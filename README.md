@@ -20,7 +20,7 @@
 <img align="right" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
 🎓 **B.Tech Graduate in Information & Communication Technology(ICT)**
-🏫 **Pandit Deendayal Energy University (PDEU)**
+🏫 **Pandit Deendayal Energy University (PDEU), Gandhinagar**
 📈 **CGPA: 8.83**
 💼 Software Engineer | Full Stack Developer | GenAI
 🚀 Building scalable web and mobile applications using **MERN**, **Next.js**, **React Native**, **Prisma**, **PostgreSQL**, and **AWS**
